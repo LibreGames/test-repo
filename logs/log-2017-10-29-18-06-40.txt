@@ -1,0 +1,8 @@
+OpenGL ES 3.0 Renderer: GeForce GTX 670MX/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+ARVR: Registered interface: Native mobile
+Mono: Initializing module...
+Mono: Runtime initialized
+Mono: ALL IS GOOD
+Mono: Runtime cleanup...

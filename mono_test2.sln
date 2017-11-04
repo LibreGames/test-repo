@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mono_test2", "mono_test2.csproj", "{DC013689-BE1A-4F4F-A614-6F672A1617A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{DC013689-BE1A-4F4F-A614-6F672A1617A8}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
